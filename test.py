@@ -34,3 +34,6 @@ c1 = TreeNode("c1", c2, c3)
 someTree = TreeNode( "Top", c1)
 dumpNodes = Visitor()
 someTree.visit(dumpNodes)
+
+
+print 'adding extra code here'
